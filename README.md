@@ -117,4 +117,4 @@ pip install -r requirements.txt
 
 ## Contact
 
-Nandini Nagaraj — Walsh College — QM640 Spring 2026
+Nandini Nagaraj — Walsh College — QM640 Fall 2025 Term 3
